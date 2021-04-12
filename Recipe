@@ -1,5 +1,9 @@
 Recipe Details
 
+Open CyberChef
+Click on "Load Recipe"
+Copy/Paste below into Recipe field
+
 Split('?','\\n')
 Split('&','\\n')
 Split('=','\\n')
